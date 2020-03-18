@@ -1,0 +1,6 @@
+x = 20
+print(x)
+if x>10:
+    print('small integer')
+    print('still in if construction')
+print('out of if construct')
